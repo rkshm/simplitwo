@@ -1,2 +1,0 @@
-# simplitwo
-Simplilearn class
